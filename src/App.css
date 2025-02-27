@@ -16,3 +16,12 @@
   color: white;
   text-align: center;
 }
+
+.app-footer{
+  margin: 14px auto;
+  background-color: darkslategrey;
+  color: rgba(255, 255, 255, 0.81);
+  text-align: center;
+  font-style: italic;
+  padding: 2px;
+}
